@@ -1,0 +1,25 @@
+# Credentials
+.env
+*.env
+kaggle.json
+*.key
+*.pem
+
+# Data files
+data/
+*.csv
+*.parquet
+*.feather
+*.pkl
+*.h5
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
