@@ -1,3 +1,10 @@
-#### These are my Kaggle Data Science noteooks. Every notebook utilizes a public dataset available on the Kaggle website
+# Kaggle Competition Notebooks
 
-#### This list is of incomplete notebooks and will be focused on once the food deliver project is complete.
+A collection of data science notebooks used for competitive Kaggle submissions. Notebooks are authored and run on Kaggle, then mirrored to this repository.
+
+## Notebooks
+
+- **titanic-proj-2.ipynb** — Titanic survival prediction using Random Forest with feature engineering (Title extraction, FamilySize, AgeBand)
+- **spaceship-titanic.ipynb** — Spaceship Titanic transport prediction using feature engineering and ensemble classification
+- **spaceship-titanic-tensorflow-decision-forests.ipynb** — Spaceship Titanic using TensorFlow Decision Forests (GradientBoostedTrees)
+- **eda-house-pricing-data.ipynb** — Exploratory data analysis on housing price data
